@@ -1,8 +1,14 @@
 # ANNDL Challenges
 
-As part of the evaluation of the Artificial Neural Networks and Deep Learning course, we were assked to tackle two challenges.
+As part of the evaluation of the Artificial Neural Networks and Deep Learning course, we were asked to tackle two group challenges.
 
-We had two weeks each and could submit our results as python notebooks and in a 2 pages artiicle-format document.
+Here the proud members of the OverFritti team:
+- Angelo Baturi
+- Daniele Bergamaschi
+- Lorenzo Bottelli
+- Gianluca Carta
+
+We had two weeks for each task and we could show our results in python notebooks and in a 3 pages article-format document.
 
 The tasks were:
 - [Cell Type Prediction](Cell_Type_Prediction)
